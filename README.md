@@ -1,2 +1,2 @@
-[Hux Blog](https://penjc.github.io)
+[Peng Blog](https://penjc.github.io)
 ================================
