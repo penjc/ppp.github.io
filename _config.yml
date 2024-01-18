@@ -61,8 +61,6 @@ kramdown:
 # Disqus settings
 disqus_username: penjc
 
-disque:
-  enable: true
 # Gitalk
 gitalk:
   enable: false    #是否开启Gitalk评论
