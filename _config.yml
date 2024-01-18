@@ -59,7 +59,16 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+# disqus_username: penjc
+# Gitalk
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: 09c753c4fcff1d0dff1a                            #生成的clientID
+  clientSecret: d8868214adcb4e8b0a25dc1c53e195c1b884b63a    #生成的clientSecret
+  repo: penjc.github.io    #仓库名称
+  owner: penjc    #github用户名
+  admin: penjc
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 # Netease settings
 netease_comment: false
