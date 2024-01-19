@@ -2,8 +2,10 @@
 layout:       post
 title:        "Start"
 author:       "Peng"
-header-style: text
+head-img: "/img/home-bg.jpg"
+# header-style: text
 catalog:      false
+lang: en
 tags:
     # - Java
 ---
