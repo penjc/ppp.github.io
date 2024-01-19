@@ -63,7 +63,7 @@ disqus_username: penjc
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: 09c753c4fcff1d0dff1a                            #生成的clientID
   clientSecret: d8868214adcb4e8b0a25dc1c53e195c1b884b63a    #生成的clientSecret
   repo: penjc.github.io    #仓库名称
