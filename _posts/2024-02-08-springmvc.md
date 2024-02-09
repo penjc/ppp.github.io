@@ -10,6 +10,7 @@ catalog:      true
 # lang: en
 tags:
     - Java
+    - Spring
     - SpringMvc
     - Framework
 ---
