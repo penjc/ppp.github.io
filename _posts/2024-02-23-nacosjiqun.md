@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "Nacos集群"
+title:        "Nacos"
 # subtitle: ""
 author:       "Peng"
 # header-img: ""
